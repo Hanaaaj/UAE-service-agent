@@ -77,30 +77,36 @@ def retrieve_context(query, vectorizer, tfidf_matrix, data, top_n=2, threshold=0
     return results, context_str
 
 # Conversational LLM Layer Grounding Execution
+
 def generate_grounded_response(query, context, api_key):
     if not api_key:
-        return "⚠️ Configuration Blocked: Missing API Token parameter. Supply token parameter string via application dashboard console or secrets configuration manifest.", None
+        return "⚠️ Configuration Blocked: Missing API Token parameter.", None
         
     try:
         genai.configure(api_key=api_key)
+        # Use the updated stable generation model
         model = genai.GenerativeModel('gemini-2.5-flash')
         
+        # New Hybrid System Prompt: Allows both RAG and normal small talk!
         system_prompt = (
-            "You are a helpful conversational UAE Government Services Assistant dashboard system.\n"
-            "Your main task is to guide users through rules using ONLY the validated context parameters below.\n\n"
-            "CRITICAL OPERATIONAL RULES:\n"
-            "1. Ground information delivery only within the specified facts block. Do not extrapolate data.\n"
-            "2. If the facts block does not explicitly contain structural answers to resolve the prompt, or if sources are ambiguous, precisely output: "
-            "'I'm not certain — please verify with [official link]' where the link corresponds exactly to the official link found in the metadata.\n"
-            "3. Append standard tag notation '(Subject to change)' next to any mentioned monetary figures.\n\n"
-            f"VALIDATED DATA PARAMETERS:\n{context}\n"
-            f"USER QUERY PROMPT: {query}"
+            "You are a friendly, conversational UAE Government Services AI Assistant.\n"
+            "Your goal is to provide a helpful, natural, and polite chat experience.\n\n"
+            "OPERATIONAL INSTRUCTIONS:\n"
+            "1. SMALL TALK & GREETINGS: If the user says hello, asks how you are, or makes general conversation, "
+            "respond naturally, warmly, and politely using your general AI capabilities. You don't need the facts block for this.\n\n"
+            "2. GOVERNMENT SERVICES & VISAS: If the user asks about a visa, license, fine, or procedure, check the 'VALIDATED DATA PARAMETERS' below:\n"
+            "   - If the specific answer is there, use those facts to answer clearly and accurately.\n"
+            "   - Always append the note '(Subject to change)' next to any money figures or fees mentioned.\n"
+            "   - If they ask a specific government/visa question that is completely missing from the facts block, politely state: "
+            "'I'm not certain about those specific parameters — please verify directly with official sources.'\n\n"
+            f"VALIDATED DATA PARAMETERS (Use for specific visa/license queries):\n{context}\n\n"
+            f"USER MESSAGE: {query}"
         )
         
         response = model.generate_content(system_prompt)
         return response.text, context
     except Exception as e:
-        return f"Processor Pipeline Exception Error Encountered: {str(e)}", None
+        return f"Processor Pipeline Error: {str(e)}", None
 
 # --- UI APP LAYER HEADER ---
 st.title("Unified UAE Government Services Assistant")
