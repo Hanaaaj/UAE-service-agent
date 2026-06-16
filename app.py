@@ -83,7 +83,7 @@ def generate_grounded_response(query, context, api_key):
         
     try:
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         
         system_prompt = (
             "You are a helpful conversational UAE Government Services Assistant dashboard system.\n"
