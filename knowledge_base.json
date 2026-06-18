@@ -1,0 +1,1350 @@
+[{
+  "service_name": "Entry Visa for Residents of GCC Countries and Their Companions",
+
+  "quick_summary": "Allows GCC residents and their companions to enter the UAE for a short visit. The visa is valid for 30 days and can be extended once for an additional 30 days.",
+
+  "documents_required": [
+    "Passport or travel document (valid for at least 6 months)",
+    "Copy of GCC residence permit",
+    "Recent passport-size photo with white background"
+  ],
+
+  "eligibility_requirements": [
+    "Must be a resident of a GCC country",
+    "GCC residence permit must be valid",
+    "Profession must be among the approved professions",
+    "Applicant must not have any entry restrictions to the UAE"
+  ],
+
+  "service_steps": [
+    "Log in to https://smart.gdrfad.gov.ae",
+    "Register as a user",
+    "Choose the required service",
+    "Fill in the application details",
+    "Pay the required fees",
+    "After approval, the visa is sent to the user's email"
+  ],
+
+  "visa_validity": [
+    "30 days"
+  ],
+
+  "extension": "Can be extended once for an additional 30 days",
+
+  "sponsor_required": "No",
+
+  "fees": {
+    "application_fee": "AED 250",
+    "vat": "5%"
+  },
+
+  "processing_time": "48 hours",
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://smart.gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "Passport must be valid for at least 6 months",
+    "GCC residence permit must be valid",
+    "Visa must be obtained before travelling",
+    "Profession is subject to approval"
+  ],
+
+  "source": "https://www.gdrfad.gov.ae",
+  "category": "Visit Visa"
+},
+{
+  "service_name": "Job Seeker Visit Visa",
+  "source": "https://gdrfad.gov.ae",
+  "quick_summary": "Allows foreigners to enter the UAE to search for employment without requiring a sponsor.",
+
+  "documents_required": [
+    "Recent coloured passport-size photo",
+    "Passport copy (valid for at least 6 months)",
+    "Bachelor's degree or equivalent qualification certificate"
+  ],
+
+  "eligibility_requirements": [
+    "Hold a Bachelor's degree or equivalent qualification",
+    "Be a skilled professional in Skill Level 1, 2, or 3 according to MOHRE OR be a graduate from a top 500 university within the last 2 years",
+    "Meet financial guarantee requirements"
+  ],
+ "service_steps": [
+    "Option 1: Apply through digital channels (website or smart application).",
+    "Log in to the smart services system using UAE Pass or username.",
+    "Search for the required service.",
+    "Fill in the application data.",
+    "Upload the required documents if requested.",
+    "Pay the service fee (if applicable).",
+    "Submit the application and wait for approval.",
+
+    "Option 2: Apply through a Customer Happiness Centre.",
+    "Visit the nearest Customer Happiness Centre.",
+    "Take an automated queue ticket and wait for your turn.",
+    "Submit the application and required documents to the customer service employee.",
+    "Pay the service fee (if applicable).",
+
+    "Option 3: Apply through an Amer Service Centre.",
+    "Visit the nearest Amer Service Centre.",
+    "Take an automated queue ticket and wait for your turn.",
+    "Submit the application and required documents to the customer service employee.",
+    "Pay the service fee (if applicable)."
+  ],
+
+  "visa_validity": [
+    "60 days",
+    "90 days",
+    "120 days"
+  ],
+
+  "sponsor_required": "No",
+
+  "fees": {
+    "60_days": "AED 200",
+    "90_days": "AED 300",
+    "120_days": "AED 400",
+    "security_deposit": "AED 1000",
+    "vat": "5%"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "No sponsor or host is required",
+    "Additional service fees may apply",
+    "Requirements may change, verify on the official website"
+  ]
+},
+{
+  "service_name": "Visit Visa for Exploring Business Opportunities",
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows foreign entrepreneurs and investors to visit the UAE to explore business and investment opportunities without requiring a sponsor.",
+
+  "documents_required": [
+    "Recent coloured passport-size photo",
+    "Passport copy (valid for at least 6 months)",
+    "Proof of financial solvency",
+    "Documents supporting business or investment activity (if applicable)"
+  ],
+
+  "eligibility_requirements": [
+    "Applicant must be an entrepreneur, investor, or business professional",
+    "Applicant must meet the financial requirements set by UAE authorities",
+    "Passport must be valid for at least 6 months"
+  ],
+
+  "service_steps": [
+    "Option 1: Apply through digital channels (GDRFA website or smart application).",
+    "Log in to the smart services system using UAE Pass or username.",
+    "Search for the required service.",
+    "Fill out the application information.",
+    "Pay the service fees (if applicable).",
+
+    "Option 2: Apply through a Customer Happiness Center.",
+    "Visit the nearest Customer Happiness Center.",
+    "Obtain an automated queue ticket.",
+    "Submit the application and required documents to the customer service employee.",
+    "Pay the service fees (if applicable).",
+
+    "Option 3: Apply through an Amer Service Center.",
+    "Visit the nearest Amer Service Center.",
+    "Obtain an automated queue ticket.",
+    "Submit the application and required documents to the customer service employee.",
+    "Pay the service fees (if applicable)."
+  ],
+
+  "visa_validity": [
+    "60 days",
+    "90 days",
+    "120 days"
+  ],
+
+  "sponsor_required": "No",
+
+  "fees": {
+    "60_days": "AED 200",
+    "90_days": "AED 300",
+    "120_days": "AED 400",
+    "security_deposit": "AED 1000",
+    "vat": "5%"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "No sponsor or host is required",
+    "Additional service fees may apply",
+    "Business-related supporting documents may be requested",
+    "Requirements may change, verify on the official website before applying"
+  ]
+},
+{
+  "service_name": "Medical Visa",
+
+  "source": "https://icp.gov.ae",
+
+  "quick_summary": "Allows foreign patients to enter the UAE for medical treatment under the sponsorship of a licensed healthcare facility.",
+
+  "documents_required": [
+    "Passport copy (valid for at least 6 months)",
+    "Recent passport-size photo",
+    "Medical report",
+    "Letter from the healthcare facility stating the reason for the visit",
+    "Valid health insurance",
+    "Travel ticket"
+  ],
+
+  "eligibility_requirements": [
+    "Must require medical treatment in the UAE",
+    "Must be sponsored by a licensed healthcare facility in the UAE",
+    "Must have valid health insurance",
+    "Must provide the required medical documents"
+  ],
+
+  "service_steps": [
+    "Apply through digital channels (GDRFA website or smart application).",
+    "Log in to the smart services system using UAE Pass or username.",
+    "Search for the required Medical Visa service.",
+    "Fill out the application information.",
+    "Upload the required documents.",
+    "Pay the service fees.",
+    "Submit the application and wait for approval."
+  ],
+
+  "visa_validity": [
+    "90 days",
+    "180 days"
+  ],
+
+  "sponsor_required": "Yes (Licensed Healthcare Facility)",
+
+  "fees": {
+    "90_day_single_entry": "AED 200",
+    "180_day_single_entry": "AED 500",
+    "90_day_multiple_entry": "AED 300",
+    "180_day_multiple_entry": "AED 900",
+    "vat": "5%",
+    "single_entry_security_deposit": "AED 1000",
+    "multiple_entry_security_deposit": "AED 2000",
+    "security_deposit_service_fee": "AED 20",
+    "security_deposit_collection_fee": "AED 40",
+    "inside_uae_fee": "AED 500",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10"
+  },
+
+  "where_to_apply": {
+    "authority": "ICP / GDRFA Dubai",
+    "website": "https://icp.gov.ae"
+  },
+
+  "important_notes": [
+    "The sponsor must be a licensed hospital or healthcare facility in the UAE.",
+    "Medical insurance is mandatory.",
+    "A financial security deposit may be required.",
+    "The visa can be single-entry or multiple-entry.",
+    "A patient's companion may also apply for a companion medical visa.",
+    "Medical treatment visas may be extended according to UAE regulations.",
+    "Additional fees apply if the sponsored person is already inside the UAE.",
+    "The total visa cost may vary depending on the applicant's circumstances."
+  ]
+},
+{
+  "service_name": "Residence Visa - Private Sector",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows employees working in the UAE private sector to legally reside and work in the UAE. The visa is typically valid for 2 years and can be renewed.",
+
+  "documents_required": [
+    "Passport copy",
+    "Recent passport-size photo with white background",
+    "Medical fitness certificate (for applicants aged 18 and above)"
+  ],
+
+  "eligibility_requirements": [
+    "Must have a job offer or employment with a UAE private sector company",
+    "Employer must sponsor the residence visa",
+    "Must pass the required medical fitness test"
+  ],
+
+  "service_steps": [
+    "Apply through digital channels (GDRFA website or smart application).",
+    "Log in to the smart services system using UAE Pass or username.",
+    "Search for the Residence Visa - Private Sector service.",
+    "Fill in the application data.",
+    "Upload the required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval."
+  ],
+
+  "validity": [
+    "2 years (renewable)"
+  ],
+
+  "expected_completion_time": "48 hours",
+
+  "sponsor_required": "Yes (Employer)",
+
+  "fees": {
+    "residence_permit_fee": "AED 200",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "The employer is responsible for applying for the residence visa.",
+    "Applicants aged 18 and above must complete a medical fitness test.",
+    "An Emirates ID application is required as part of the residence visa process.",
+    "The issuance fee increases by AED 100 annually whenever the residency period exceeds two years.",
+    "The grace period after residence visa expiry or cancellation is 60 days.",
+    "Visa validity and fees may change based on regulations."
+  ]
+},
+{
+  "service_name": "Residence Visa - Public Sector",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows employees working in the UAE public sector to legally reside in the UAE. The visa is typically valid for 2 years and is renewable.",
+
+  "documents_required": [
+    "Passport copy",
+    "Recent personal photo with white background",
+    "Medical examination report approved by relevant authorities (for applicants over 18 years old)"
+  ],
+
+  "eligibility_requirements": [
+    "Must be employed in the UAE public sector",
+    "Must pass the required medical examination",
+    "Passport must be valid for more than 6 months"
+  ],
+
+  "service_steps": [
+    "Log in to the smart services system using UAE Pass or username",
+    "Search for the Residence Visa - Public Sector service",
+    "Fill in the application data",
+    "Upload required documents",
+    "Pay the service fee (if applicable)",
+    "Submit the application and wait for approval"
+  ],
+
+  "visa_validity": [
+    "2 years (renewable)"
+  ],
+
+  "expected_completion_time": "48 hours",
+
+  "sponsor_required": "Yes (Employer / Government Entity)",
+
+  "fees": {
+    "residence_permit_fee": "AED 200",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "terms_and_conditions": [
+    "Medical examination must not exceed three months validity",
+    "Identity Card application validity must not exceed 120 days",
+    "Passport must be valid for more than six months"
+  ],
+
+  "important_notes": [
+    "The issuance fee increases by AED 100 annually whenever residency exceeds two years",
+    "The grace period after expiry or cancellation is 60 days",
+    "All applications are subject to approval by relevant authorities"
+  ]
+},
+{
+  "service_name": "New Work Permit",
+  "source": "https://mohre.gov.ae",
+
+  "quick_summary": "Allows UAE employers to legally hire a new employee under a valid work permit issued by MOHRE.",
+
+  "documents_required": [
+    "Signed job offer from the employer",
+    "Passport copy of the employee",
+    "Any required professional license (if applicable)",
+    "Additional documents as requested by MOHRE"
+  ],
+
+  "eligibility_requirements": [
+    "Establishment must have an available electronic quota",
+    "Employee must be 18 years or older",
+    "Establishment must have a valid trade license with no violations",
+    "Applicant must not already hold an active work permit",
+    "Application must be submitted by authorized signatory of the establishment"
+  ],
+
+  "service_steps": [
+    "Log in using username/password or UAE Pass (for online channels)",
+    "Submit the work permit application through approved service channels",
+    "Application is reviewed by MOHRE for compliance with requirements",
+    "Employer is notified to complete any missing documents if required",
+    "Once approved, the work permit is issued",
+    "Pay federal fees, bank guarantee or insurance (if applicable)"
+  ],
+
+  "permit_duration": "2 years",
+
+  "employment_contract_types": [
+    "Full Time",
+    "Part Time",
+    "Temporary Work",
+    "Flexible Work",
+    "Remote Work",
+    "Job Sharing"
+  ],
+
+  "service_completion_time": "2 working days",
+
+  "fees": {
+    "federal_application_fee": "AED 50",
+    "category_1_permit_fee": "AED 250",
+    "category_2_permit_fee": "AED 1200",
+    "category_3_permit_fee": "AED 3450",
+    "business_center_service_fee_cap": "AED 72",
+    "note": "MOHRE website and app services are free excluding taxes and collection charges"
+  },
+
+  "service_channels": [
+    "Service Center",
+    "Website",
+    "Mobile Application",
+    "Tawseel"
+  ],
+
+  "target_audience": "Employers",
+
+  "important_notes": [
+    "Permit replacement and nationality change allowed under specific conditions within six months",
+    "The profession and gender must remain unchanged during replacement",
+    "Employer must ensure all legal requirements are met before applying",
+    "Fees do not include VAT or collection charges"
+  ]
+}, 
+{
+  "service_name": "Student Residence Visa",
+
+  "category": "Residence Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows international students enrolled in an accredited UAE educational institution to reside in the UAE for the duration of their studies.",
+
+  "documents_required": [
+    "Passport copy (valid for at least 6 months)",
+    "Recent passport-size photo with white background",
+    "University admission letter or study certificate",
+    "Medical fitness certificate (if required)",
+    "Health insurance",
+    "Emirates ID application"
+  ],
+
+  "eligibility_requirements": [
+    "Must be enrolled in an accredited educational institution in the UAE",
+    "Must be sponsored by the university or an eligible parent",
+    "Passport must be valid for at least 6 months",
+    "Must meet all UAE residency requirements"
+  ],
+
+  "service_steps": [
+    "Log in to the smart services system using UAE Pass or username.",
+    "Search for the Student Residence Visa service.",
+    "Fill in the application data.",
+    "Upload the required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval."
+  ],
+
+  "visa_validity": [
+    "Valid for the duration of the study program"
+  ],
+
+  "sponsor_required": "Yes (University or Eligible Parent)",
+
+  "expected_completion_time": "48 hours",
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "The university usually manages the visa process for international students.",
+    "Students may be sponsored by a parent who is a UAE resident if eligible.",
+    "The student is allowed to remain in the UAE for up to 180 days after completing studies.",
+    "Passport must be valid for at least 6 months."
+  ]
+},
+{
+  "service_name": "Golden Residence Permit - Top Students and Graduates",
+
+  "category": "Golden Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows outstanding high school students and top university graduates from UAE and international universities to obtain a 10-year Golden Residence Permit in the UAE.",
+
+  "applicant_categories": [
+    "Top High School Students",
+    "Top Graduates of UAE Universities",
+    "Top Graduates of International Universities"
+  ],
+
+  "documents_required": {
+    "top_students": [
+      "Passport copy",
+      "High school certificate with minimum 95% score",
+      "Current UAE residence permit copy (Dubai-issued if applicable)",
+      "UAEICP approval"
+    ],
+
+    "uae_university_graduates": [
+      "Passport copy",
+      "Current UAE residence permit copy (Dubai-issued if applicable)",
+      "UAEICP approval"
+    ],
+
+    "international_university_graduates": [
+      "Passport copy",
+      "Current UAE residence permit copy (if available)",
+      "UAEICP approval"
+    ]
+  },
+
+  "eligibility_requirements": {
+    "top_students": [
+      "High school certificate from a school licensed by the Ministry of Education or relevant authority",
+      "Minimum GPA/score of 95%",
+      "Certificate must be attested by the Ministry of Education"
+    ],
+
+    "uae_university_graduates": [
+      "Bachelor's degree from a university licensed by the Ministry of Education",
+      "Classification A GPA: at least 3.5",
+      "Classification B GPA: at least 3.8",
+      "Graduated within the last 2 years",
+      "Certificate must be attested by the Ministry of Higher Education"
+    ],
+
+    "international_university_graduates": [
+      "University must be ranked among the world's top 100 universities approved by the Ministry of Education",
+      "Bachelor's GPA of at least 3.5",
+      "Graduated within the last 2 years",
+      "Certificate must be attested by the Ministry of Higher Education"
+    ]
+  },
+
+  "service_steps": [
+    "Option 1: Apply through GDRFA digital channels.",
+    "Log in using UAE Pass or username.",
+    "Search for the Golden Residence Permit service.",
+    "Fill in the application details.",
+    "Upload the required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval.",
+
+    "Option 2: Apply through an Amer Service Center.",
+    "Visit the nearest Amer Service Center.",
+    "Take a queue ticket.",
+    "Submit the application and documents.",
+    "Pay the applicable fees."
+  ],
+
+  "visa_validity": "10 years",
+
+  "renewable": "No",
+
+  "sponsor_required": "No",
+
+  "processing_time": "5 days",
+
+  "fees": {
+    "residence_permit_fee": "AED 1100",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20",
+    "total_service_cost": "AED 2790"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "Applicant must obtain UAEICP approval before applying.",
+    "A Dubai-issued residency file is required for student Golden Residency applications.",
+    "Golden Residency applications require approval through UAEICP or nomination by a competent authority.",
+    "Golden Residency for students is not renewed after expiry.",
+    "Top high school students may sponsor their parents only.",
+    "University graduates may sponsor spouse and children if family sponsorship requirements are met.",
+    "Golden Residency holders are exempt from the 180-day residence rule."
+  ]
+},
+{
+  "service_name": "Golden Residence Permit - Pioneers of Humanitarian Work",
+
+  "category": "Golden Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows individuals who have made significant contributions to humanitarian work inside or outside the UAE to obtain a long-term Golden Residence Permit.",
+
+  "documents_required": [
+    "Passport copy",
+    "Recommendation from the Ministry of Community Empowerment",
+    "Current residence permit copy (Dubai-issued)"
+  ],
+
+  "eligibility_requirements": [
+    "Must obtain approval from the Ministry of Community Empowerment",
+    "Must be a member or specialized employee of an international or regional humanitarian organization for at least 5 years, OR",
+    "Must be a member or specialized employee of a public benefit association or institution for at least 5 years, OR",
+    "Must have received local, regional, or international humanitarian awards, OR",
+    "Must have provided humanitarian financial support of at least AED 2,000,000, OR",
+    "Must hold a university degree"
+  ],
+
+  "service_steps": [
+    "Obtain nomination or recommendation from the Ministry of Community Empowerment.",
+    "Receive approval through the UAEICP system.",
+    "Apply through the Golden Residency Office or approved service channels.",
+    "Log in using UAE Pass or username.",
+    "Search for the Golden Residence Permit service.",
+    "Fill in the application details.",
+    "Upload the required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval.",
+
+    "Alternative: Apply through an Amer Service Centre.",
+    "Visit the nearest Amer Service Centre.",
+    "Take a queue ticket.",
+    "Submit the application and required documents.",
+    "Pay the applicable fees."
+  ],
+
+  "visa_validity": "10 years",
+
+  "sponsor_required": "No",
+
+  "processing_time": "48 hours",
+
+  "fees": {
+    "residence_permit_fee": "AED 1100",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "Approval from the Ministry of Community Empowerment is mandatory.",
+    "Nomination does not guarantee final approval.",
+    "Final approval is subject to GDRFA review.",
+    "Applicant must have a Dubai-issued residence file.",
+    "Golden Residence holders are exempt from the 180-day stay outside UAE rule.",
+    "Applicants must be able to support themselves and their family without government assistance."
+  ]
+},
+{
+  "service_name": "Golden Residence Permit - Specialized Scientists and Professionals",
+
+  "category": "Golden Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows scientists, researchers, specialists, healthcare professionals, educators, industrial experts, and highly skilled workers to obtain a 10-year Golden Residence Permit in the UAE.",
+
+  "applicant_categories": [
+    "Scientists and Researchers",
+    "Senior Scholars and Religious Leaders",
+    "Industrial Specialists",
+    "Healthcare Specialists",
+    "Education Specialists",
+    "Skilled Workers"
+  ],
+
+  "documents_required": [
+    "Passport copy",
+    "UAEICP approval",
+    "Nomination letter from the relevant UAE authority",
+    "Bachelor's degree or higher qualification",
+    "Employment contract or salary certificate (for skilled workers)",
+    "Bank statement showing salary transfers for the last 6 months",
+    "Professional license (if required)"
+  ],
+
+  "eligibility_requirements": [
+    "Must belong to an approved specialized field",
+    "Must obtain nomination from the relevant UAE authority",
+    "Must meet educational qualification requirements",
+    "Skilled workers must earn at least AED 30,000 per month",
+    "Must have valid health insurance",
+    "Must satisfy UAEICP and GDRFA approval requirements"
+  ],
+
+  "service_steps": [
+    "Obtain nomination from the relevant authority.",
+    "Receive UAEICP approval.",
+    "Log in using UAE Pass or username.",
+    "Search for the Golden Residence Permit service.",
+    "Fill in the application data.",
+    "Upload required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval."
+  ],
+
+  "visa_validity": "10 years",
+
+  "renewable": "Yes (if eligibility requirements continue to be met)",
+
+  "processing_time": "48 hours",
+
+  "fees": {
+    "total_service_cost": "AED 2790",
+    "residence_permit_fee": "AED 1100",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "important_notes": [
+    "Final approval is subject to GDRFA review.",
+    "Golden Residence holders are exempt from the 180-day stay abroad rule.",
+    "The permit may be cancelled if eligibility conditions are no longer met.",
+    "Salary requirements must continue to be maintained for skilled workers."
+  ]
+},
+{
+  "service_name": "Golden Residence Permit - Entrepreneurs",
+
+  "category": "Golden Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows entrepreneurs with innovative or technology-focused business projects to obtain a 10-year Golden Residence Permit in the UAE.",
+
+  "documents_required": [
+    "Passport copy",
+    "Nomination letter from Dubai Future Foundation"
+  ],
+
+  "eligibility_requirements": [
+    "Must be nominated by Dubai Future Foundation",
+    "Must own an innovative or future-focused business project",
+    "Project must be registered with the Ministry of Economy or relevant local authority",
+    "OR have a project generating at least AED 1 million annual revenue",
+    "OR have established a business generating at least AED 2 million revenue",
+    "OR have sold a startup or business for at least AED 7 million"
+  ],
+
+  "service_steps": [
+    "Obtain nomination from Dubai Future Foundation.",
+    "Log in to the smart services system using UAE Pass or username.",
+    "Search for the Golden Residence Permit - Entrepreneurs service.",
+    "Fill in the application details.",
+    "Upload the required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval.",
+
+    "Alternative: Apply through an Amer Service Center.",
+    "Visit the nearest Amer Service Center.",
+    "Take a queue ticket.",
+    "Submit the application and documents.",
+    "Pay the applicable fees."
+  ],
+
+  "visa_validity": "10 years",
+
+  "renewable": "Yes (if eligibility conditions continue to be met)",
+
+  "sponsor_required": "No",
+
+  "processing_time": "5 days",
+
+  "fees": {
+    "total_service_cost": "AED 2280",
+    "residence_permit_fee": "AED 1100",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "Nomination from Dubai Future Foundation is required.",
+    "Nomination does not guarantee final approval.",
+    "Final approval is subject to GDRFA review.",
+    "Golden Residence holders are exempt from the 180-day stay outside UAE rule.",
+    "Applicants must be able to financially support themselves and their family."
+  ]
+},
+{
+  "service_name": "Golden Residence Permit - Investors",
+
+  "category": "Golden Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows eligible investors to obtain a 10-year Golden Residence Permit through business investment, real estate investment, bank deposits, or significant tax contributions in the UAE.",
+
+  "documents_required": [
+    "Passport copy",
+    "Proof of investment",
+    "Supporting financial documents based on investor category"
+  ],
+
+  "investment_categories": [
+    "Business / Company Investor",
+    "Real Estate Investor",
+    "Bank Deposit Investor",
+    "Tax Investor"
+  ],
+
+  "eligibility_requirements": [
+    "Own a company investment worth at least AED 2 million",
+    "OR own real estate worth at least AED 2 million",
+    "OR hold a bank deposit of at least AED 2 million in a UAE bank",
+    "OR pay taxes of at least AED 250,000 annually in the UAE"
+  ],
+
+  "service_steps": [
+    "Log in using UAE Pass or username.",
+    "Search for the Golden Residence Permit - Investors service.",
+    "Fill in the application details.",
+    "Upload the required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval.",
+
+    "Alternative: Apply through an Amer Service Center.",
+    "Visit the nearest Amer Service Center.",
+    "Take a queue ticket.",
+    "Submit the application and documents.",
+    "Pay the applicable fees."
+  ],
+
+  "visa_validity": "10 years",
+
+  "renewable": "Yes (if eligibility requirements continue to be met)",
+
+  "processing_time": "5 days",
+
+  "sponsor_required": "No",
+
+  "fees": {
+    "total_service_cost": "AED 2790",
+    "residence_permit_fee": "AED 1100",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "Investment must meet the minimum required value.",
+    "Real estate investors must maintain ownership during the Golden Visa period.",
+    "Bank deposit investors must keep the deposit frozen according to UAE regulations.",
+    "Final approval is subject to GDRFA review.",
+    "Golden Residence holders are exempt from the 180-day stay outside UAE rule.",
+    "Applicants must be able to financially support themselves and their family."
+  ]
+},
+{
+  "service_name": "Golden Residence Permit - Talented Individuals",
+
+  "category": "Golden Visa",
+
+  "source": "https://gdrfad.gov.ae",
+
+  "quick_summary": "Allows individuals with exceptional talent in culture, arts, innovation, sports, or digital technology to obtain a 10-year Golden Residence Permit in the UAE.",
+
+  "eligible_categories": [
+    "Culture and Arts",
+    "Innovators and Inventors",
+    "Athletes",
+    "Digital Technology Talent"
+  ],
+
+  "documents_required": [
+    "Passport copy",
+    "Nomination letter from the relevant UAE authority",
+    "Supporting documents showing achievements or talent"
+  ],
+
+  "eligibility_requirements": [
+    "Must demonstrate exceptional talent or achievements in an approved field",
+    "Must receive nomination or recommendation from the relevant UAE authority",
+    "Must meet the requirements of the nominated category"
+  ],
+
+  "service_steps": [
+    "Obtain nomination from the relevant authority.",
+    "Log in using UAE Pass or username.",
+    "Search for the Golden Residence Permit - Talented Individuals service.",
+    "Fill in the application details.",
+    "Upload required documents.",
+    "Pay the applicable fees.",
+    "Submit the application and wait for approval.",
+
+    "Alternative: Apply through an Amer Service Center.",
+    "Visit the nearest Amer Service Center.",
+    "Take a queue ticket.",
+    "Submit the application and documents.",
+    "Pay the applicable fees."
+  ],
+
+  "visa_validity": "10 years",
+
+  "renewable": "Yes (if eligibility conditions continue to be met)",
+
+  "processing_time": "5 days",
+
+  "sponsor_required": "No",
+
+  "fees": {
+    "total_service_cost": "AED 2790",
+    "residence_permit_fee": "AED 1100",
+    "knowledge_dirham": "AED 10",
+    "innovation_dirham": "AED 10",
+    "inside_country_fee": "AED 500",
+    "delivery_fee": "AED 20"
+  },
+
+  "where_to_apply": {
+    "authority": "GDRFA Dubai",
+    "website": "https://gdrfad.gov.ae"
+  },
+
+  "important_notes": [
+    "Nomination from the relevant UAE authority is required.",
+    "Nomination does not guarantee final approval.",
+    "Final approval is subject to GDRFA review.",
+    "Applicants must be able to financially support themselves and their family.",
+    "Golden Residence holders are exempt from the 180-day stay outside UAE rule."
+  ]
+},
+{
+  "service_name": "New Driving Licence",
+  "category": "Driving Services",
+  "authority": "RTA Dubai",
+  "source": "https://rta.ae",
+
+  "quick_summary": "Allows eligible residents and citizens to obtain a new UAE driving licence after completing training, passing required tests, and paying applicable fees.",
+
+  "target_audience": [
+    "UAE citizens",
+    "UAE residents"
+  ],
+
+  "documents_required": [
+    "Valid Emirates ID",
+    "Valid eye test report",
+    "Existing driving licence (if applicable)"
+  ],
+
+  "eligibility_requirements": [
+    "Must meet the minimum age requirement for the vehicle category",
+    "Must be medically fit",
+    "Must complete required driving training",
+    "Must pass knowledge, yard, and road tests"
+  ],
+
+  "service_steps": [
+    "Log in using Emirates ID, Passport, or UAE Pass",
+    "Select a driving institute",
+    "Submit the application",
+    "Pay initial fees",
+    "Receive learning permit",
+    "Complete driving training",
+    "Pass eye test",
+    "Pass knowledge, yard, and road tests",
+    "Pay licence issuance fees",
+    "Receive digital or physical driving licence"
+  ],
+
+  "minimum_age_requirements": {
+    "motorcycle": "17 years",
+    "light_vehicle": "18 years",
+    "heavy_vehicle": "20 years",
+    "light_bus": "21 years",
+    "heavy_bus": "21 years"
+  },
+
+  "service_channels": [
+    "RTA Website",
+    "RTA Smart App",
+    "Driving Institutes"
+  ],
+
+  "processing_time": "Instant after passing tests and paying fees",
+
+  "fees": {
+    "traffic_file": "AED 200",
+    "learning_permit_light_vehicle": "AED 100",
+    "learning_permit_heavy_vehicle": "AED 200",
+    "eye_test": "AED 140 - AED 180",
+    "driving_licence_under_21": "AED 100",
+    "driving_licence_21_or_above": "AED 300",
+    "knowledge_and_innovation_fee": "AED 20"
+  },
+
+  "important_notes": [
+    "Eye test is valid for 3 years",
+    "People of Determination may receive service discounts",
+    "Training requirements depend on driving experience",
+    "A temporary licence is issued after passing the final road test",
+    "Applications may be suspended if no test is taken within 6 months"
+  ]
+},
+{
+  "service_name": "Driving Licence Renewal",
+  "category": "Driving Services",
+  "authority": "RTA Dubai",
+  "source": "https://rta.ae",
+
+  "quick_summary": "Allows UAE residents and citizens to renew an existing driving licence online after completing the required eye test and paying applicable fees.",
+
+  "target_audience": [
+    "UAE citizens",
+    "UAE residents"
+  ],
+
+  "documents_required": [
+    "Valid Emirates ID",
+    "Valid eye test report",
+    "Medical fitness report (for professional drivers)"
+  ],
+
+  "eligibility_requirements": [
+    "Must hold a valid or expired UAE driving licence",
+    "Must complete an eye test",
+    "Must pay all outstanding traffic fines",
+    "Medical fitness test required for professional drivers"
+  ],
+
+  "service_steps": [
+    "Complete an eye test at an approved centre",
+    "Log in using Emirates ID, Passport, or UAE Pass",
+    "Select Driving Licence Renewal service",
+    "Verify licence details",
+    "Pay fines and renewal fees",
+    "Choose licence delivery method",
+    "Receive digital or physical driving licence"
+  ],
+
+  "special_case": {
+    "expired_more_than_10_years": "Applicant must pass an Evaluation Test before renewal"
+  },
+
+  "service_channels": [
+    "RTA Website"
+  ],
+
+  "processing_time": "Instant",
+
+  "fees": {
+    "licence_under_21": "AED 100",
+    "licence_21_or_above": "AED 300",
+    "eye_test": "AED 140 - AED 180",
+    "knowledge_and_innovation_fee": "AED 20",
+    "late_renewal_fine": "AED 10 per month (maximum AED 500)"
+  },
+
+  "important_notes": [
+    "Driving licence can be renewed 6 months before expiry if aged 21 or above",
+    "Driving licence can be renewed 3 months before expiry if under 21",
+    "Eye test is valid for 3 years",
+    "Medical test is valid for 6 months",
+    "People of Determination may receive service discounts",
+    "Licences expired for more than 10 years require an Evaluation Test",
+    "All outstanding traffic fines must be paid before renewal"
+  ]
+},
+{
+  "service_name": "Exchange of Foreign Driving Licence",
+  "category": "Driving Services",
+  "sub_category": "Licence Exchange",
+  "authority": "Ministry of Interior (MOI) / UAE Traffic Authorities",
+  "source": "https://moi.gov.ae",
+
+  "quick_summary": "Allows eligible residents to exchange a valid foreign driving licence from approved countries for a UAE driving licence without completing full driving tests.",
+
+  "target_audience": [
+    "UAE residents with valid foreign driving licence"
+  ],
+
+  "documents_required": [
+    "Valid foreign driving licence",
+    "Valid Emirates ID or residence visa",
+    "Passport (if required)",
+    "Eye test report",
+    "Proof of residence/employment/study in UAE"
+  ],
+
+  "eligibility_requirements": [
+    "Must be at least 18 years old",
+    "Driving licence must be valid",
+    "Licence must be from an approved country for exchange",
+    "Applicant must have UAE residence visa or valid residence status",
+    "Must pass eye test"
+  ],
+
+  "service_steps": [
+    "Submit application through digital channels",
+    "Fill in personal and licence details",
+    "Complete eye test if required",
+    "Pay applicable fees",
+    "Submit original foreign driving licence (if required)",
+    "Receive UAE driving licence"
+  ],
+
+  "processing_time": "Instant (around 1 minute after approval)",
+
+  "service_channels": [
+    "Website",
+    "Mobile App",
+    "Service Centers"
+  ],
+
+  "fees": {
+    "federal_service_fee": "AED 600",
+    "knowledge_and_innovation_fee": "AED 20"
+  },
+
+  "payment_methods": [
+    "Credit Card",
+    "Apple Pay",
+    "Samsung Pay",
+    "Google Pay"
+  ],
+
+  "important_notes": [
+    "Only licences from approved countries can be exchanged",
+    "Original licence may need to be surrendered for some countries",
+    "Eye test is mandatory",
+    "Service availability depends on Ministry of Interior approval list"
+  ]
+},
+{
+  "service_name": "Request to Issue Trade Licence",
+  "category": "Business Setup",
+  "authority": "Invest in Dubai / Department of Economy and Tourism (Dubai)",
+  "source": "https://www.investindubai.gov.ae",
+
+  "quick_summary": "Allows entrepreneurs to legally establish a business in Dubai by issuing a trade licence for commercial, professional, or home-based activities.",
+
+  "licence_types": [
+    {
+      "type": "Normal Licence",
+      "description": "Standard business licence requiring Memorandum of Association and physical office lease.",
+      "requirements": [
+        "Memorandum of Association (MoA)",
+        "Site lease contract",
+        "External approvals if required"
+      ]
+    },
+    {
+      "type": "Instant Licence",
+      "description": "Fast-track licence issued within minutes for selected activities without external approvals.",
+      "includes": [
+        "Trade licence",
+        "Dubai Chamber membership",
+        "Establishment card (GDRFA)",
+        "Establishment card (MOHRE)",
+        "Option to employ up to 3 employees"
+      ],
+      "eligible_legal_forms": [
+        "LLC",
+        "LLC Single Owner",
+        "Sole Establishment",
+        "Civil Company"
+      ]
+    },
+    {
+      "type": "eTrader Licence",
+      "description": "Licence for home-based businesses and sole establishments in Dubai.",
+      "requirements": [
+        "Valid Emirates ID",
+        "Registered trade name"
+      ],
+      "fees": {
+        "total_cost": "AED 1070 + AED 300 (Dubai Chamber membership)"
+      }
+    }
+  ],
+
+  "eligibility_requirements": [
+    "Valid Emirates ID or unified number",
+    "Business activity must be approved under Dubai regulations",
+    "Some activities require external approvals"
+  ],
+
+  "service_steps": [
+    "Select licence type (Normal / Instant / eTrader)",
+    "Submit application online or via service centre",
+    "Provide required documents",
+    "Obtain approvals if needed",
+    "Pay licence fees",
+    "Receive trade licence digitally"
+  ],
+
+  "processing_time": {
+    "normal_licence": "Up to 10 minutes via service centres (varies by approvals)",
+    "instant_licence": "Around 5 minutes",
+    "eTrader_licence": "Around 5 minutes"
+  },
+
+  "service_channels": [
+    "Invest in Dubai Portal",
+    "Service Centres"
+  ],
+
+  "fees": {
+    "varies_by_activity": true,
+    "eTrader_fixed_cost": "AED 1070 + AED 300"
+  },
+
+  "important_notes": [
+    "Instant licence is only for activities that do not require external approvals",
+    "eTrader licence is limited to home-based businesses",
+    "Normal licence requires physical office lease",
+    "Additional approvals may apply depending on business activity"
+  ]
+},
+{
+  "service_name": "Visit Visa for Visiting Relatives and Friends",
+
+  "category": "Visit Visa",
+
+  "quick_summary": "Allows residents or sponsors in the UAE to bring relatives or friends for a short visit. Visa validity depends on entry type and can be extended within UAE rules.",
+
+  "target_audience": [
+    "UAE residents sponsoring relatives",
+    "Residents sponsoring friends",
+    "Family members of UAE residents",
+    "Friends visiting UAE residents"
+  ],
+
+  "relationship_categories": {
+    "first_degree": "Father, Mother, Spouse, Son, Daughter",
+    "second_degree": "Siblings, Grandparents, Grandchildren",
+    "third_degree": "Uncle, Aunt, Cousins",
+    "friend": "Non-relative"
+  },
+
+  "documents_required": [
+    "Passport (valid for at least 6 months)",
+    "Personal passport-size photo",
+    "Proof of kinship (for relatives)",
+    "Residence permit copy of sponsor (if applicable)",
+    "Justification for visit",
+    "Medical report (if required)",
+    "Copy of GCC residence permit (if applicable)",
+    "Copy of identification document (for Afghanistan / Iran / Iraq cases)",
+    "Return flight ticket"
+  ],
+
+  "eligibility_requirements": [
+    "Passport must be valid for at least 6 months",
+    "Valid health insurance in UAE is required",
+    "Sponsor must meet minimum salary requirement depending on relationship",
+    "No entry restrictions to UAE",
+    "Proof of relationship must be provided for relatives"
+  ],
+
+  "salary_requirements": {
+    "first_degree_relatives": "AED 4,000 minimum monthly salary",
+    "second_and_third_degree_relatives": "AED 8,000 minimum monthly salary",
+    "friends": "AED 15,000 minimum monthly salary"
+  },
+
+  "visa_validity": {
+    "tourist_stay": "Up to 90 days continuous stay",
+    "maximum_extension": "Up to 180 days total within one year"
+  },
+
+  "extension_policy": "Visa may be extended once depending on approval",
+
+  "service_steps": [
+    "Log in to UAE smart services portal or GDRFA system",
+    "Register or sign in using UAE Pass or username",
+    "Select 'Visit Visa for Relatives and Friends' service",
+    "Fill in sponsor and applicant details",
+    "Upload required documents",
+    "Verify relationship and eligibility criteria",
+    "Pay application fees and security deposit if required",
+    "Submit application for approval",
+    "Receive visa approval via email or system notification",
+    "Visa is issued and sent digitally"
+  ],
+
+  "fees": {
+    "application_fee": "AED 100",
+    "single_entry_visa_per_month": "AED 100",
+    "multiple_entry_visa_per_month": "AED 200",
+    "smart_service_fee": "AED 100",
+    "single_entry_financial_guarantee": "AED 1000",
+    "multiple_entry_financial_guarantee": "AED 2000"
+  },
+
+  "fines": {
+    "overstay_penalty_per_day": "AED 50 per day"
+  },
+
+  "refund_policy": "Financial guarantee may be refunded after visa cancellation or exit from UAE if no violations exist",
+
+  "important_notes": [
+    "Health insurance is mandatory in UAE",
+    "Passport must be valid for at least 6 months",
+    "Overstay fine applies from the day after visa expiry",
+    "Visa extension depends on UAE authority approval",
+    "Proof of kinship is strictly required for relatives",
+    "Salary requirements differ based on relationship category"
+  ],
+
+  "where_to_apply": {
+    "authority": "GDRFA / ICP UAE",
+    "channels": [
+      "Online portal",
+      "Smart applications",
+      "Service centres"
+    ]
+  }
+}]
